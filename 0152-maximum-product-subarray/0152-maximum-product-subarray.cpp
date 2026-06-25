@@ -28,12 +28,9 @@ public:
         int ans = nums[0];
 
         for(int i = 1; i < nums.size(); i++) {
-
-            if(nums[i] < 0)
-                swap(maxProd, minProd);
-
-            maxProd = max(nums[i], maxProd * nums[i]);
-            minProd = min(nums[i], minProd * nums[i]);
+            int temp = maxProd;
+            maxProd = max(nums[i], max(maxProd * nums[i],minProd*nums[i]));
+            minProd = min(nums[i], min(minProd * nums[i], temp*nums[i]));
 
             ans = max(ans, maxProd);
         }
