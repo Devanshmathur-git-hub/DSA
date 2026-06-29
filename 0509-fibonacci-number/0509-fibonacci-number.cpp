@@ -23,3 +23,5 @@ public:
         return fib(n - 1) + fib(n - 2);
     }
 };
+
+//median of 2 sorted arry,next permitation,grp anagram
