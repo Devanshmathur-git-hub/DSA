@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -71,5 +72,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
