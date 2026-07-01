@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0213-house-robber-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0079-word-search) |
 | [1901-find-a-peak-element-ii](https://github.com/Devanshmathur-git-hub/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Greedy
 |  |
@@ -89,9 +91,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0031-next-permutation) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
