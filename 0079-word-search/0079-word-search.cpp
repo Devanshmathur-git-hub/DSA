@@ -12,7 +12,6 @@ public:
         // Mark current cell as visited
         char temp = board[i][j];
         board[i][j] = '#';
-       
         // Explore all 4 directions
         bool found = dfs(board, word, i + 1, j, index + 1) ||
                      dfs(board, word, i - 1, j, index + 1) ||
