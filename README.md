@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0509-fibonacci-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0198-house-robber) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0079-word-search) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
