@@ -17,10 +17,9 @@ public:
         // Read 
         while (i < n && isdigit(s[i])) {
             num = num * 10 + (s[i] - '0');
-
-            if (sign == 1 && num > INT_MAX)
+            if (sign == 1 && num > INT_MAX)     //2,147,483,647
                 return INT_MAX;
-            if (sign == -1 && -num < INT_MIN)
+            if (sign == -1 && -num < INT_MIN)   //-2,147,483,648 
                 return INT_MIN;
 
             i++;
