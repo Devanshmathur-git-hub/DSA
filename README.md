@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0152-maximum-product-subarray) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0032-longest-valid-parentheses](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0242-valid-anagram) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0062-unique-paths) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
