@@ -128,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0032-longest-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
