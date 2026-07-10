@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0031-next-permutation) |
+| [0876-middle-of-the-linked-list](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -132,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
