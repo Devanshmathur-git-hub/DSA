@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0031-next-permutation) |
 | [0234-palindrome-linked-list](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Devanshmathur-git-hub/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -140,4 +141,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Devanshmathur-git-hub/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
