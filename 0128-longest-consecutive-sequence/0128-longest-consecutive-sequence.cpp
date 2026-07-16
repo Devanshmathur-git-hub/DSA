@@ -4,12 +4,11 @@ public:
 
         unordered_map<int, bool> mp;
 
-        // Store every unique number
         for (int num : nums) {
             mp[num] = false;
         }
 
-        // Mark only starting points
+      
         for (auto &it : mp) {
             int key = it.first;
 
@@ -20,7 +19,7 @@ public:
 
         int ans = 0;
 
-        // Count sequence length from every starting point
+       
         for (auto &it : mp) {
             int key = it.first;
 
