@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0242-valid-anagram) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0242-valid-anagram](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0242-valid-anagram) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
