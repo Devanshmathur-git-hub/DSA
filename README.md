@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0068-text-justification) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0132-palindrome-partitioning-ii) |
