@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0410-split-array-largest-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Devanshmathur-git-hub/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Devanshmathur-git-hub/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Devanshmathur-git-hub/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Devanshmathur-git-hub/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Dynamic Programming
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0410-split-array-largest-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Devanshmathur-git-hub/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Devanshmathur-git-hub/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Devanshmathur-git-hub/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Devanshmathur-git-hub/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Matrix
