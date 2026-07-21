@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0410-split-array-largest-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/Devanshmathur-git-hub/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Devanshmathur-git-hub/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0410-split-array-largest-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/Devanshmathur-git-hub/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Devanshmathur-git-hub/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Matrix
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0410-split-array-largest-sum) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Devanshmathur-git-hub/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0268-missing-number) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Devanshmathur-git-hub/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 ## String
 |  |
 | ------- |
