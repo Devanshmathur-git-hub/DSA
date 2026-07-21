@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0410-split-array-largest-sum) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Devanshmathur-git-hub/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/Devanshmathur-git-hub/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Devanshmathur-git-hub/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Dynamic Programming
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0410-split-array-largest-sum) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Devanshmathur-git-hub/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/Devanshmathur-git-hub/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Devanshmathur-git-hub/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Matrix
