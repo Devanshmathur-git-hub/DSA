@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0509-fibonacci-number) |
+| [0838-push-dominoes](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0838-push-dominoes) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,12 +126,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0242-valid-anagram](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0242-valid-anagram) |
+| [0838-push-dominoes](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0838-push-dominoes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0031-next-permutation) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0234-palindrome-linked-list) |
+| [0838-push-dominoes](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0838-push-dominoes) |
 | [0876-middle-of-the-linked-list](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Devanshmathur-git-hub/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Backtracking
