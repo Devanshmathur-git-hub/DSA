@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
@@ -179,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0076-minimum-window-substring) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
