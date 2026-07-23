@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0242-valid-anagram](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0838-push-dominoes](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0838-push-dominoes) |
 ## Two Pointers
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Design
 |  |
 | ------- |
