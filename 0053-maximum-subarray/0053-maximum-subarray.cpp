@@ -1,5 +1,5 @@
 
-class Solution {
+class Solution {          //O(n)
 public:
     int maxSubArray(vector<int>& nums) {
         int current_sum = nums[0];
