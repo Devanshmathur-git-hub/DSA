@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0118-pascals-triangle) |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0225-implement-stack-using-queues) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Devanshmathur-git-hub/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
